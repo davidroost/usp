@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.20029129"
-     inkscape:cx="-50.1543"
+     inkscape:cx="-55.147028"
      inkscape:cy="-3396.5665"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -64,70 +64,77 @@
        inkscape:export-ydpi="90" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/upload-c82021e0-585d-11e5-b968-a5a0feecc801.jpg"
-       y="3769.7966"
-       x="-6209.2344"
-       id="image4361"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/upload-c82021e0-585d-11e5-b968-a5a0feecc801.jpg"
-       preserveAspectRatio="none"
+       xlink:href="upload-c82021e0-585d-11e5-b968-a5a0feecc801.jpg"
+       width="1600"
        height="1066.6667"
-       width="1600" />
+       preserveAspectRatio="none"
+       id="image4361"
+       x="-6209.2344"
+       y="3769.7966" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/shutterstock_212743078_0.jpg"
-       y="3953.7776"
-       x="-3895.7446"
-       id="image4372"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/shutterstock_212743078_0.jpg"
-       preserveAspectRatio="none"
+       xlink:href="shutterstock_212743078_0.jpg"
+       width="1597.3628"
        height="1081.2474"
-       width="1597.3628" />
+       preserveAspectRatio="none"
+       id="image4372"
+       x="-3895.7446"
+       y="3953.7776" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/banner_image_03.png"
-       y="3265.2803"
-       x="-492.13644"
-       id="image4383"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/banner_image_03.png"
-       preserveAspectRatio="none"
+       xlink:href="banner_image_03.png"
+       width="1600"
        height="400"
-       width="1600" />
+       preserveAspectRatio="none"
+       id="image4383"
+       x="-492.13644"
+       y="3265.2803" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/banner_image_02.png"
-       y="1649.1948"
-       x="-492.13644"
-       id="image4394"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/banner_image_02.png"
-       preserveAspectRatio="none"
+       xlink:href="banner_image_02.png"
+       width="1600"
        height="400"
-       width="1600" />
+       preserveAspectRatio="none"
+       id="image4394"
+       x="-492.13644"
+       y="1649.1948" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/banner_image_01.png"
-       y="2267.7654"
-       x="-631.45416"
-       id="image4405"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/banner_image_01.png"
-       preserveAspectRatio="none"
+       xlink:href="banner_image_01.png"
+       width="1600"
        height="400"
-       width="1600" />
+       preserveAspectRatio="none"
+       id="image4405"
+       x="-631.45416"
+       y="2267.7654" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/UoB-course-carousel-image-1.jpg"
-       y="4018.1614"
-       x="-872.56293"
-       id="image4416"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/UoB-course-carousel-image-1.jpg"
-       preserveAspectRatio="none"
+       xlink:href="UoB-course-carousel-image-1.jpg"
+       width="1644.8173"
        height="891.49097"
-       width="1644.8173" />
+       preserveAspectRatio="none"
+       id="image4416"
+       x="-872.56293"
+       y="4018.1614" />
     <image
        sodipodi:absref="/Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/Research_laboratory_test tubes_R&amp;D_pills_pill bottle_computer_keyboard.jpg"
-       y="4085.3481"
-       x="-850.1543"
-       id="image4638"
-       xlink:href="file:///Users/davidroost/Desktop/ITL-Consulting/my-usp-800/content/Research_laboratory_test%20tubes_R&amp;D_pills_pill%20bottle_computer_keyboard.jpg"
-       preserveAspectRatio="none"
+       xlink:href="Research_laboratory_test tubes_R&amp;D_pills_pill bottle_computer_keyboard.jpg"
+       width="1600"
        height="1066.6666"
-       width="1600" />
+       preserveAspectRatio="none"
+       id="image4638"
+       x="-850.1543"
+       y="4085.3481" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.60000002;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M -1972.7383 2798.832 L -1972.7383 6099.0254 L 1872.4297 6099.0254 L 1872.4297 2798.832 L -1972.7383 2798.832 z M -850.1543 4248.9277 L 749.8457 4248.9277 L 749.8457 4648.9277 L -850.1543 4648.9277 L -850.1543 4248.9277 z "
        id="rect4419" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.49019608;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.60000002;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4660"
+       width="449.34555"
+       height="559.18555"
+       x="2196.8005"
+       y="3828.3191" />
   </g>
 </svg>
