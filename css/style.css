@@ -1,7 +1,6 @@
 /*********************** PRE PAGE LOADER SECTION ***********************/
 
 
-
 #loader-wrapper {
     position: fixed;
     top: 0;
@@ -125,7 +124,6 @@
 
 
 
-
 /********************** UNIVERSAL STYLING **********************/
 body {
   /*background-color: rgba(0, 0, 0, 0.1);*/
@@ -134,8 +132,17 @@ body {
 
 h1 {
     text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-family: Oswald;
+    font-weight: 500;
+    font-size: 45pt;
   }
 h2 {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  font-size: 25pt;
+
   text-align: center;
   }
 h3 {
@@ -193,16 +200,28 @@ h6 {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
+  cursor: pointer;
+  position: relative;
   }
 
 .banner-text{
   max-width: 940px;
   margin-left: auto;
-  padding-top: 100px;
+  padding-top: 130px;
   margin-right: auto;
-  text-align: center;
+  position: relative;
   }
 
+.banner:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0, 0.5);
+  }
 
 /************************ NAVIGATION SECTION ************************/
 
@@ -214,7 +233,7 @@ h6 {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  z-index: 0;
+  z-index: 1;
   position: fixed;
   left: 0;
   top: 0;
@@ -227,7 +246,7 @@ h6 {
   }
 
 header {
-  position:relative;
+  position:absolute;
   width:100%;
   background:white;
   }
@@ -243,7 +262,7 @@ nav {
   position:relative;
   width:980px;
   margin:0 auto;
-  z-index: 1;
+  z-index: 2;
   }
 #cssmenu,#cssmenu ul,#cssmenu ul li,#cssmenu ul li a,#cssmenu #head-mobile {
   border:0;
@@ -421,7 +440,11 @@ nav {
 
 #banner-01 {
   background-image: url("../content/banner_image_01.png");
+  background-color: red;
   }
+
+
+
 
 /************************ DEMO ANIMATION SECTION ************************/
 
